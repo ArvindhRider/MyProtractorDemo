@@ -12,3 +12,5 @@ function pageObjectModel()
 
 //object of this class
 module.exports = new pageObjectModel();
+
+//adding a line in pom just to see if its only available in tester branch 
