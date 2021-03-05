@@ -11,6 +11,7 @@ describe('Protractor Alert steps',function() {
 //accept() 
 //if we go with cancel or negative kind of response we do 
 //dismiss()
+//addinga line for test
 
     browser.switchTo().alert().dismiss().then(function()
     
